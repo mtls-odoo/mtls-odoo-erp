@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<odoo>
+    <record id="pushes" model="product.template">
+        <field name="name">Surplus Pushes</field>
+    </record>
+    <record id="comunication" model="product.template">
+        <field name="name">Surplus Comunication</field>
+    </record>
+    <record id="users" model="product.template">
+        <field name="name">Surplus Users</field>
+    </record>
+</odoo>
